@@ -1,0 +1,17 @@
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\bin\Debug\net6.0\Zhurkevich_lab10.exe
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\bin\Debug\net6.0\Zhurkevich_lab10.deps.json
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\bin\Debug\net6.0\Zhurkevich_lab10.runtimeconfig.json
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\bin\Debug\net6.0\Zhurkevich_lab10.dll
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\bin\Debug\net6.0\Zhurkevich_lab10.pdb
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.csproj.AssemblyReference.cache
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.AssemblyInfoInputs.cache
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.AssemblyInfo.cs
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.csproj.CoreCompileInputs.cache
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.csproj.CopyComplete
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.dll
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\refint\Zhurkevich_lab10.dll
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.pdb
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\Zhurkevich_lab10.genruntimeconfig.cache
+D:\Work\2023\labs\Журкевич\lab4\Zhurkevich_lab10\Zhurkevich_lab10\obj\Debug\net6.0\ref\Zhurkevich_lab10.dll
